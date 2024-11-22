@@ -1,0 +1,44 @@
+﻿[
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Local",
+        "HostName":  "RDS0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Local",
+        "HostName":  "AD0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Local",
+        "HostName":  "FS0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Cloud",
+        "HostName":  "RDS0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Cloud",
+        "HostName":  "AD0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Cloud",
+        "HostName":  "FS0",
+        "Date":  "2024-11-11"
+    },
+    {
+        "VbrHost":  "DTSLAB-VEEAM",
+        "ParentJob":  "VM-Cloud",
+        "HostName":  "DTSLAB-PF1",
+        "Date":  "2024-08-10"
+    }
+]
