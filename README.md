@@ -1,5 +1,5 @@
 ## VBR Reports
-This is a project I created to have daily reporting on Veeam Backup and Replication Servers.
+This is a project I created to have daily reporting on machines backed up by Veeam Backup and Replication Servers.
 
 ### Description
 This addresses various issues in VSC and other reporting tools such as:
@@ -21,4 +21,4 @@ that doesn't exist.
 
 - On each VBR server, a PowerShell Script gathers data on the latest restore points and sends it to the ingestion service
 - The ingestion service processes the data, and stores it in a SQLite database.
-- The ingestion service servers the static HTML files, where the data is displayed and can be exported
+- The ingestion service serves the static HTML files, where the data is displayed and can be exported
